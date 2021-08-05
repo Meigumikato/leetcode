@@ -9,3 +9,4 @@ find_package(GTest REQUIRED)
 
 add_subdirectory(tree)
 add_subdirectory(list)
+add_subdirectory(stack)

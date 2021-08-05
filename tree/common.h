@@ -22,4 +22,6 @@ std::string serialize(TreeNode* root);
 void Split(const std::string& data, std::vector<std::string>& ret);
 TreeNode* deserialize(std::string data);
 
+bool isSymmetric(TreeNode* root);
+
 #endif //LEETCODE_COMMON_H
